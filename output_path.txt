@@ -1,0 +1,5 @@
+Average Temperature: 24
+Maximum Temperature: 32
+Minimum Temperature: 0
+Average Precipitation: 0.88
+Weather Summary: {'partly cloudy': 5, 'sunny': 9, 'overcast': 4, 'rainy': 8, 'snowy': 4}

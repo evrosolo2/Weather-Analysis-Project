@@ -1,0 +1,21 @@
+[
+    {
+      "day": "December 1, 2023",
+      "precipitation": 0,
+      "temperature": 55,
+      "weather": "sunny"
+    },
+    {
+      "day": "December 2, 2023"
+    },
+    {
+
+      "temperature": 50,
+      "weather": "partly cloudy"
+    },
+    {
+      "day": "December 4, 2023",
+      "precipitation": 0.1,
+      "temperature": 48
+    }
+  ]
